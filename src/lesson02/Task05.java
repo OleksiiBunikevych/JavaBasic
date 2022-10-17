@@ -7,7 +7,7 @@ public class Task05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double inches;
-        System.out.print("Vvedit znachennya inches: " + "inches=");
+        System.out.print("Vvedit znachennya inches: inches=");
         inches = scanner.nextDouble();
         double centimeters = convertToCentimeters(inches);
         System.out.print("centimeters=: " + centimeters);
