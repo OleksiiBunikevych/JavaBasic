@@ -5,7 +5,7 @@ public class Task04 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double degreeFahrenheit;
-        System.out.print("Vvedit znachennya po Fahrenheit: " + "degreeFahrenheit=");
+        System.out.print("Vvedit znachennya po Fahrenheit: degreeFahrenheit=");
         degreeFahrenheit = scanner.nextFloat();
         double degreeCelsius = convertToCelsius(degreeFahrenheit);
         System.out.print("degreeCelsius=: " + degreeCelsius + "°C");
