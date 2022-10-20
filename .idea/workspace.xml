@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="054550f0-e121-40f1-b642-a9cd0e5153a5" name="Changes" comment="виконав завдання №1-3 уроку №2">
-      <change afterPath="$PROJECT_DIR$/src/lesson03/Task01.java" afterDir="false" />
+    <list default="true" id="054550f0-e121-40f1-b642-a9cd0e5153a5" name="Changes" comment="виконав завдання №3 уроку №3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +19,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Task123" />
+        <entry key="$PROJECT_DIR$" value="lesson03" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GEIPVeA8tk2cnaTeQkitKlhI7o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,11 +44,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="054550f0-e121-40f1-b642-a9cd0e5153a5" name="Changes" comment="виконав завдання №1-3 уроку №2" />
       <created>1665947294749</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665947294749</updated>
     </task>
+    <task id="LOCAL-00001" summary="виконав завдання №2 уроку №3">
+      <created>1666295812816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666295812816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="виконав завдання №3 уроку №3">
+      <created>1666298784856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666298784856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +77,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="виконав завдання №2 уроку №3" />
+    <MESSAGE value="виконав завдання №3 уроку №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="виконав завдання №3 уроку №3" />
   </component>
 </project>
