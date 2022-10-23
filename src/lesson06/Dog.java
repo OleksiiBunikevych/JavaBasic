@@ -6,7 +6,7 @@ public class Dog {
     private float weight;
     private String color;
 
-    public void setValues(String name, int age, float weight, String color) {
+    public Dog (String name, int age, float weight, String color) {
         this.name = name;
         this.age = age;
         this.weight = weight;
