@@ -6,6 +6,5 @@ public class Task03 {
         System.out.println(CaneCorso);
         Dog GermanShepherd = new Dog("Rex", 2, 45.5f, "gray");
         System.out.println(GermanShepherd);
-
     }
 }
