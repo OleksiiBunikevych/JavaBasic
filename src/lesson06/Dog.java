@@ -34,3 +34,4 @@ public class Dog {
         return "Dog name: " + name + "; age: " + age + "; weight: " + weight + "; color: " + color + ".";
     }
 }
+
