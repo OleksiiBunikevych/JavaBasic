@@ -1,16 +1,21 @@
 package lesson06;
 
 public class Circle {
-    final double Pi = 3.1415926536;
+    final double PI;
     public double radius;
 
+    public Circle(double PI, double radius) {
+        this.PI = PI;
+        this.radius = radius;
+    }
+
     public double getArea() {
-        double area = Pi * Math.pow(radius, 2);
+        double area = PI * Math.pow(radius, 2);
         return area;
     }
 
     public double getPerimetr() {
-        double perimetr = 2 * Pi * radius;
+        double perimetr = 2 * PI * radius;
         return perimetr;
     }
 }
