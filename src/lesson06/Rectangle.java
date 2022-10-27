@@ -16,6 +16,9 @@ public class Rectangle {
     public double getWidth() {
         return width;
     }
+    public void setLength(double length){
+        this.length = length;
+    }
 
     public double getArea() {
         double area = length * width;
