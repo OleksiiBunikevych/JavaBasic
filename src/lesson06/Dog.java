@@ -28,7 +28,20 @@ public class Dog {
     public String getColor() {
         return color;
     }
-
+    public void setName(String mame) {
+        this.name = name;
+    }
+    public void setAge(int age) {
+        if (age > 0){
+        this.age = age;
+    }}
+    public void setWeigh(double weight) {
+        if (weight > 0){
+            this.weight = age;
+        }}
+    public void setColor(String color) {
+        this.color = color;
+    }
     @Override
     public String toString() {
         return "Dog name: " + name + "; age: " + age + "; weight: " + weight + "; color: " + color + ".";
