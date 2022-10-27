@@ -20,7 +20,9 @@ public class Rectangle {
     public void setLength(double length) {
         this.length = length;
     }
-
+    public void setWidth(double width) {
+        this.width = width;
+    }
     public double getArea() {
         double area = length * width;
         return area;
