@@ -1,35 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="054550f0-e121-40f1-b642-a9cd0e5153a5" name="Changes" comment="" />
+    <list default="true" id="054550f0-e121-40f1-b642-a9cd0e5153a5" name="Changes" comment="виправив завдання №4 уроку №6 (добавив set/get)">
+      <change afterPath="$PROJECT_DIR$/src/lesson07/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson07/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson07/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson07/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson07/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson06" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GEIPVeA8tk2cnaTeQkitKlhI7o" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="054550f0-e121-40f1-b642-a9cd0e5153a5" name="Changes" comment="виправив завдання №2 уроку №6 (добавив get)" />
       <created>1665947294749</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665947294749</updated>
     </task>
+    <task id="LOCAL-00001" summary="виконав завдання №1 уроку №6">
+      <created>1666510320275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666510320275</updated>
+    </task>
+    <task id="LOCAL-00002" summary="виконав завдання №2 уроку №6">
+      <created>1666518881028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666518881028</updated>
+    </task>
+    <task id="LOCAL-00003" summary="виконав завдання №3 уроку №6">
+      <created>1666532355719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666532355719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="виправив завдання №3 уроку №6">
+      <created>1666539318907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666539318907</updated>
+    </task>
+    <task id="LOCAL-00005" summary="виконав завдання №4 уроку №6">
+      <created>1666548328287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548328287</updated>
+    </task>
+    <task id="LOCAL-00006" summary="виправив завдання №4 уроку №6 (добавив get)">
+      <created>1666631758232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666631758232</updated>
+    </task>
+    <task id="LOCAL-00007" summary="виправив завдання №4 уроку №6 (добавив get)">
+      <created>1666631890403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666631890403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="виправив завдання №3 уроку №6 (добавив get)">
+      <created>1666632025362</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666632025362</updated>
+    </task>
+    <task id="LOCAL-00009" summary="виправив завдання №1 уроку №6 (добавив get)">
+      <created>1666632693822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666632693822</updated>
+    </task>
+    <task id="LOCAL-00010" summary="виправив завдання №2 уроку №6 (добавив get)">
+      <created>1666633181487</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666633181487</updated>
+    </task>
+    <task id="LOCAL-00011" summary="виправив завдання №2 уроку №6 (добавив set)">
+      <created>1666894334133</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666894334133</updated>
+    </task>
+    <task id="LOCAL-00012" summary="виправив завдання №1 уроку №6 (добавив set)">
+      <created>1666894411998</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666894411998</updated>
+    </task>
+    <task id="LOCAL-00013" summary="виправив завдання №1 уроку №6 (добавив set/get)">
+      <created>1666894538092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666894538092</updated>
+    </task>
+    <task id="LOCAL-00014" summary="виправив завдання №2 уроку №6 (добавив set/get)">
+      <created>1666895040795</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666895040795</updated>
+    </task>
+    <task id="LOCAL-00015" summary="виправив завдання №3 уроку №6 (добавив set/get)">
+      <created>1666895913578</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666895913578</updated>
+    </task>
+    <task id="LOCAL-00016" summary="виправив завдання №4 уроку №6 (добавив set/get)">
+      <created>1666896211132</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666896211132</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="виконав завдання №1 уроку №6" />
+    <MESSAGE value="виконав завдання №2 уроку №6" />
+    <MESSAGE value="виконав завдання №3 уроку №6" />
+    <MESSAGE value="виправив завдання №3 уроку №6" />
+    <MESSAGE value="виконав завдання №4 уроку №6" />
+    <MESSAGE value="виправив завдання №4 уроку №6 (добавив get)" />
+    <MESSAGE value="виправив завдання №3 уроку №6 (добавив get)" />
+    <MESSAGE value="виправив завдання №1 уроку №6 (добавив get)" />
+    <MESSAGE value="виправив завдання №2 уроку №6 (добавив get)" />
+    <MESSAGE value="виправив завдання №2 уроку №6 (добавив set)" />
+    <MESSAGE value="виправив завдання №1 уроку №6 (добавив set)" />
+    <MESSAGE value="виправив завдання №1 уроку №6 (добавив set/get)" />
+    <MESSAGE value="виправив завдання №2 уроку №6 (добавив set/get)" />
+    <MESSAGE value="виправив завдання №3 уроку №6 (добавив set/get)" />
+    <MESSAGE value="виправив завдання №4 уроку №6 (добавив set/get)" />
+    <option name="LAST_COMMIT_MESSAGE" value="виправив завдання №4 уроку №6 (добавив set/get)" />
   </component>
 </project>
