@@ -1,41 +1,62 @@
 package lesson07;
 
 public class Triangle extends Figure {
-    private double a;
-    private double b;
+    private double AB;
+    private double BC;
+    private double CA;
 
-    public Triangle(double width, double height, double a, double b) {
-        super(width, height);
-        this.a = a;
-        this.b = b;
+    public Triangle(double AB, double BC, double a, double CA) {
+        this.AB = AB;
+        this.BC = BC;
+        this.CA = CA;
+
     }
 
-    public double getA() {
-        return a;
+    public double getAB() {
+        return AB;
     }
 
-    public double getB() {
-        return b;
+    public double getBC() {
+        return BC;
     }
 
-    public void setA(double a) {
-        if (a > 0) {
-            this.a = a;
+    public double getCA() {
+        return CA;
+    }
+
+    public void setAB(double AB) {
+        if (AB > 0) {
+            this.AB = AB;
         }
     }
 
-    public void setB(double b) {
-        if (b > 0) {
-            this.b = b;
+    public void setBC(double BC) {
+        if (BC > 0) {
+            this.BC = BC;
         }
     }
 
+    public void setCA(double CA) {
+        if (CA > 0) {
+
+            this.CA = CA;
+        }
+    }
+
+    @Override
+    public String toString() {
+        return getClass().getName();
+    }
+
+    @Override
     public double getPerimeter() {
-        return width + a + b;
+        return AB + BC + CA;
     }
 
+    @Override
     public double getArea() {
-        return (width * height) / 2;
+        double P = AB + BC + CA;
+        return Math.sqrt(P * (P - AB) * (P - BC) * (P - CA));
     }
 
 }
